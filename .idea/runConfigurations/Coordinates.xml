@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Coordinates" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="example" />
+    <module name="Infiltration-Planning-Software" />
+    <option name="PROGRAM_PARAMETERS" value="-start &quot;(0,0)&quot; -target &quot;(0,10)&quot; -g &quot;(0,1)&quot; &quot;(0,2)&quot; &quot;(0,3)&quot; -f &quot;(0,4,0,8)&quot; -s &quot;(0,5,3.5)&quot; -c &quot;(0,6,e)&quot;" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
